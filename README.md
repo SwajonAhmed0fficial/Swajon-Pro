@@ -23,9 +23,11 @@
 
  pkg install git
 
- git clone https://github.com/SwajonAhmedofficial/Swajon-Pro.git
+ git clone https://github.com/SwajonAhmed0fficial/Swajon-Pro.git
 
  cd Swajon-Pro
 
  python Swajon-Pro.py
 
+# Note
+ This is Paid Tools Bro, You Must Pay to Use The Tools ❤️
