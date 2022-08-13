@@ -27,7 +27,7 @@
 
  cd Swajon-Pro
 
- python Swajon-Pro.py
+ python swajon-pro.py
 
 # Note
  This is Paid Tools Bro, You Must Pay to Use The Tools ❤️
